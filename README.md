@@ -25,8 +25,12 @@ A graph-powered e-commerce intelligence project connecting **customers, sessions
 
 ## Live Application
 
-> **Streamlit Community Cloud deployment is in progress.**  
-> Add the public application URL here after deployment.
+ 
+> ## Live Application
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-journey-intelligence.streamlit.app/)
+
+**Live Dashboard:** https://customer-journey-intelligence.streamlit.app/
 
 ---
 
