@@ -1,0 +1,29 @@
+﻿category_1,category_2,orders_together,percentage_of_all_orders,relationship_type
+Books,Books,2050,6.1,Same Category
+Toys,Toys,1834,5.46,Same Category
+Books,Toys,1793,5.34,Cross Category
+Beauty,Beauty,1627,4.85,Same Category
+Beauty,Books,1511,4.5,Cross Category
+Beauty,Toys,1361,4.05,Cross Category
+Fashion,Fashion,1182,3.52,Same Category
+Books,Fashion,1162,3.46,Cross Category
+Books,Home & Kitchen,1072,3.19,Cross Category
+Home & Kitchen,Home & Kitchen,1054,3.14,Same Category
+Fashion,Toys,1021,3.04,Cross Category
+Home & Kitchen,Toys,983,2.93,Cross Category
+Books,Sports,960,2.86,Cross Category
+Beauty,Fashion,919,2.74,Cross Category
+Sports,Toys,858,2.56,Cross Category
+Sports,Sports,854,2.54,Same Category
+Beauty,Home & Kitchen,850,2.53,Cross Category
+Beauty,Sports,718,2.14,Cross Category
+Fashion,Home & Kitchen,591,1.76,Cross Category
+Fashion,Sports,542,1.61,Cross Category
+Home & Kitchen,Sports,511,1.52,Cross Category
+Books,Electronics,459,1.37,Cross Category
+Electronics,Toys,409,1.22,Cross Category
+Beauty,Electronics,370,1.1,Cross Category
+Electronics,Electronics,366,1.09,Same Category
+Electronics,Home & Kitchen,282,0.84,Cross Category
+Electronics,Fashion,273,0.81,Cross Category
+Electronics,Sports,224,0.67,Cross Category

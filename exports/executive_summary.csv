@@ -1,0 +1,2 @@
+﻿total_customers,total_sessions,total_orders,total_revenue_usd,avg_order_value_usd,conversion_rate_pct,purchasing_customers,purchasing_customer_pct,repeat_buyers,repeat_buyer_pct_of_buyers,total_reviews
+20000,120000,33580,4493217.47,133.81,27.98,16268,81.34,10045,61.75,10780

@@ -1,0 +1,1 @@
+RETURN "Neo4j connection working" AS status;

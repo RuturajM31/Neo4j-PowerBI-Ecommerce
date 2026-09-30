@@ -1,0 +1,4 @@
+﻿segment_order,customer_segment,customers,orders,revenue_usd,avg_orders_per_customer,avg_revenue_per_customer_usd
+1,No Purchase,3732,0,0.0,0.0,0.0
+2,One-Time Buyer,6223,6223,843073.74,1.0,135.48
+3,Repeat Buyer,10045,27357,3650143.73,2.72,363.38

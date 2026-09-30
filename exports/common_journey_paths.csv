@@ -1,0 +1,11 @@
+﻿journey_path,sessions,percentage_of_converted_sessions
+page_view -> add_to_cart -> checkout -> purchase,1584,4.72
+page_view -> add_to_cart -> page_view -> checkout -> purchase,1146,3.41
+page_view -> page_view -> add_to_cart -> checkout -> purchase,1138,3.39
+page_view -> page_view -> add_to_cart -> page_view -> checkout -> purchase,940,2.8
+page_view -> add_to_cart -> page_view -> page_view -> checkout -> purchase,937,2.79
+page_view -> page_view -> page_view -> add_to_cart -> checkout -> purchase,880,2.62
+page_view -> page_view -> add_to_cart -> page_view -> page_view -> checkout -> purchase,691,2.06
+page_view -> page_view -> page_view -> page_view -> add_to_cart -> checkout -> purchase,625,1.86
+page_view -> add_to_cart -> page_view -> page_view -> page_view -> checkout -> purchase,609,1.81
+page_view -> page_view -> page_view -> add_to_cart -> page_view -> checkout -> purchase,604,1.8

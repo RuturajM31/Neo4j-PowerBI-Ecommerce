@@ -1,0 +1,21 @@
+﻿product_1_id,product_1_name,product_1_category,product_2_id,product_2_name,product_2_category,copurchase_orders,product_1_orders,product_2_orders,support_pct,confidence_1_to_2_pct,confidence_2_to_1_pct,lift
+241,Vacuum Orchid 536,Home & Kitchen,272,Blender YellowGreen 216,Home & Kitchen,3,37,44,0.009,8.11,6.82,61.88
+480,Shampoo MediumPurple 409,Beauty,883,E-book PaleGreen 357,Books,3,40,54,0.009,7.5,5.56,46.64
+689,Jeans HoneyDew 694,Fashion,690,Jeans SteelBlue 309,Fashion,3,32,70,0.009,9.38,4.29,44.97
+576,Dumbbell DarkGreen 137,Sports,665,Water Bottle PaleVioletRed 274,Sports,3,27,85,0.009,11.11,3.53,43.9
+731,Sneakers RosyBrown 418,Fashion,734,Hoodie Beige 459,Fashion,3,61,38,0.009,4.92,7.89,43.46
+1095,Action Figure BlueViolet 416,Toys,1175,Board Game Tan 139,Toys,3,46,51,0.009,6.52,5.88,42.94
+786,Sneakers Black 569,Fashion,848,Dress SeaGreen 201,Fashion,3,36,68,0.009,8.33,4.41,41.15
+556,Tennis Racket Lavender 602,Sports,591,Yoga Mat LightSteelBlue 240,Sports,3,40,69,0.009,7.5,4.35,36.5
+382,Moisturizer LightPink 674,Beauty,389,Moisturizer Thistle 259,Beauty,3,53,55,0.009,5.66,5.45,34.56
+260,Air Fryer DarkSlateGray 361,Home & Kitchen,275,Lamp Chocolate 506,Home & Kitchen,3,36,81,0.009,8.33,3.7,34.55
+709,Sneakers Beige 851,Fashion,734,Hoodie Beige 459,Fashion,3,78,38,0.009,3.85,7.89,33.99
+240,Coffee Maker DarkCyan 134,Home & Kitchen,315,Blender Green 977,Home & Kitchen,3,57,53,0.009,5.26,5.66,33.35
+488,Serum AliceBlue 109,Beauty,509,Shampoo Lavender 700,Beauty,3,46,66,0.009,6.52,4.55,33.18
+754,Hoodie DarkBlue 950,Fashion,802,Jeans MediumSlateBlue 465,Fashion,3,59,53,0.009,5.08,5.66,32.22
+219,Coffee Maker Moccasin 182,Home & Kitchen,450,Lipstick IndianRed 370,Beauty,3,82,39,0.009,3.66,7.69,31.5
+747,Sneakers DarkMagenta 544,Fashion,815,Socks GoldenRod 963,Fashion,3,87,37,0.009,3.45,8.11,31.3
+1053,Board Game Peru 998,Toys,1171,Board Game SteelBlue 583,Toys,3,55,60,0.009,5.45,5.0,30.53
+343,Lipstick LightCoral 771,Beauty,416,Moisturizer DarkOliveGreen 264,Beauty,3,35,96,0.009,8.57,3.13,29.98
+797,Jacket Peru 536,Fashion,848,Dress SeaGreen 201,Fashion,3,51,68,0.009,5.88,4.41,29.05
+790,Socks Beige 958,Fashion,824,Hoodie Ivory 379,Fashion,3,42,83,0.009,7.14,3.61,28.9
